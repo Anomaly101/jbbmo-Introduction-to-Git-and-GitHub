@@ -14,3 +14,7 @@ Output
 ```
 
 _© 2023 XYZ, Inc._
+
+git add.
+git commit -m 'Descriptive commit message'
+git push origin <branch-pname>
